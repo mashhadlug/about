@@ -1,5 +1,5 @@
 VIEWER = evince
-QRCODESTR = "https://nshn.ir/e8sb1-tP2JFB8u"
+QRCODESTR = #location
 EVENT_NUMBER =
 
 all: build build-png
